@@ -1,0 +1,23 @@
+.todo-list {
+  text-align: center;
+}
+
+.button {
+  background-color: #000;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 13px 26px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 1;
+}
